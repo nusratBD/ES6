@@ -3,3 +3,4 @@ const total = numbers.reduce((previous, current)=>{
     return previous + current;
 },0);
 console.log(total);
+//output: 169
